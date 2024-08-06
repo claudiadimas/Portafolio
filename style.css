@@ -1,0 +1,26 @@
+body {
+    background-color: lavenderblush
+}
+
+#proyecto1 {
+    background-image: url('clondegoogle.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+#proyecto2 {
+    background-image: url('primerapagina.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+}
+
+.text-shadow-1 {
+    text-shadow: 0 .125rem .25rem rgba(0, 0, 0, 1);
+}
+
+#caja
+{background-color:rgb(255, 253, 250);}
+
