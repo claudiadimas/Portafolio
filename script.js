@@ -15,6 +15,7 @@ typewriter
     .pauseFor(1000)
     .start();
 
+    
     let app2 = document.getElementById('app2');
     let typewriter2 = new Typewriter2(app2, {
         loop: true,
