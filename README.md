@@ -7,11 +7,12 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 [Proyecto Desplegado](https://primer-commit-om2m.vercel.app/)
 
 ## Secciones de mi Sitio
-![Presentación](assets/readme/1.png)
-![Habilidades](assets/readme/2.png)
-![Proyectos](assets/readme/3.png)
-![Testimonios](assets/readme/4.png)
-![Contacto](assets/readme/5.png)
+![Presentación](presentacion.png)
+![Habilidades](habilidades1.png)
+![Habilidades](habilidades2.png)
+![Proyectos](proyectos.png)
+![Testimonios](estimonios.png)
+![Contacto](contacto.png)
 
 ## Tecnologias 
 * HTML
